@@ -19,4 +19,16 @@ public class G {
     public void bb() {
         System.out.println(getClass().getName());
     }
+
+    public Object pp() {
+        return this;
+    }
+
+    public int af() {
+        return -1;
+    }
+
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
+    }
 }

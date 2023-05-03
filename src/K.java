@@ -19,4 +19,16 @@ public class K {
     public int hh() {
         return new java.util.Random(10).nextInt(10);
     }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
+
+    public String kk() {
+        return "Yes";
+    }
+
+    public int[] ii() {
+        return new int[]{4, 3, 2, 1};
+    }
 }
