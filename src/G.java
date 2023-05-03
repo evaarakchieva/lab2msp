@@ -43,4 +43,8 @@ public class G extends null {
     public String kk() {
         return "No";
     }
+
+    public long dd() {
+        return 99999;
+    }
 }

@@ -43,4 +43,8 @@ public class E extends I {
     public void bb() {
         System.out.println(42);
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }

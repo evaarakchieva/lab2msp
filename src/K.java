@@ -43,4 +43,8 @@ public class K extends null {
     public byte oo() {
         return 3;
     }
+
+    public long dd() {
+        return 100500;
+    }
 }
