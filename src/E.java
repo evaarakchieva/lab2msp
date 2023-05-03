@@ -12,23 +12,35 @@ public class E extends I {
         return 222;
     }
 
-    public String kk() {
-        return "No";
-    }
-
     public double ee() {
         return java.lang.Math.PI;
     }
 
+    public String kk() {
+        return "No";
+    }
+
     public float ff() {
-        return 3.14;
+        return 0;
     }
 
     public int af() {
         return -1;
     }
 
-    public String nn() {
-        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    public int[] ii() {
+        return new int[]{4, 3, 2, 1};
+    }
+
+    public Object gg() {
+        return new java.util.Random();
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public void bb() {
+        System.out.println(42);
     }
 }

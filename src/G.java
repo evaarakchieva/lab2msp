@@ -1,4 +1,4 @@
-public class G {
+public class G extends null {
 
     private byte b = 1;
 
@@ -13,7 +13,7 @@ public class G {
     }
 
     public int[] ii() {
-        return new int[]{0, 1, 2, 3, 4};
+        return new int[]{4, 3, 2, 1};
     }
 
     public void bb() {
@@ -24,11 +24,23 @@ public class G {
         return this;
     }
 
-    public int af() {
-        return -1;
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
     }
 
-    public int hh() {
-        return new java.util.Random(10).nextInt(10);
+    public void aa() {
+        return;
+    }
+
+    public int cc() {
+        return 42;
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
+
+    public String kk() {
+        return "No";
     }
 }

@@ -1,4 +1,4 @@
-public class I {
+public class I extends null {
 
     private long b = 4321;
 
@@ -13,22 +13,30 @@ public class I {
     }
 
     public void aa() {
-        System.out.println("void aa");
+        return;
     }
 
     public int ae() {
-        return java.lang.Math.abs(-7);
-    }
-
-    public java.lang.Class qq() {
-        return getClass();
+        return java.lang.Math.abs(-6);
     }
 
     public int hh() {
         return new java.util.Random().nextInt();
     }
 
-    public long ac() {
-        return 111;
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public int cc() {
+        return 39;
+    }
+
+    public int af() {
+        return -1;
+    }
+
+    public Object pp() {
+        return this;
     }
 }

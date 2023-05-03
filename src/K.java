@@ -1,4 +1,4 @@
-public class K {
+public class K extends null {
 
     private double c = 100.500;
 
@@ -13,7 +13,7 @@ public class K {
     }
 
     public long ac() {
-        return 222;
+        return 111;
     }
 
     public int hh() {
@@ -28,7 +28,19 @@ public class K {
         return "Yes";
     }
 
-    public int[] ii() {
-        return new int[]{4, 3, 2, 1};
+    public Object pp() {
+        return this;
+    }
+
+    public int af() {
+        return -1;
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public byte oo() {
+        return 3;
     }
 }
