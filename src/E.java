@@ -19,4 +19,8 @@ public class E extends I {
     public double ee() {
         return java.lang.Math.PI;
     }
+
+    public float ff() {
+        return 3.14;
+    }
 }

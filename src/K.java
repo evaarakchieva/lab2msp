@@ -19,4 +19,8 @@ public class K {
     public int hh() {
         return new java.util.Random(10).nextInt(10);
     }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
 }

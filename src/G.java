@@ -19,4 +19,8 @@ public class G {
     public void bb() {
         System.out.println(getClass().getName());
     }
+
+    public Object pp() {
+        return this;
+    }
 }

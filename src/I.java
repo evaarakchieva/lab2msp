@@ -19,4 +19,8 @@ public class I {
     public int ae() {
         return java.lang.Math.abs(-7);
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }
