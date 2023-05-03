@@ -27,4 +27,8 @@ public class E extends I {
     public int af() {
         return -1;
     }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
 }

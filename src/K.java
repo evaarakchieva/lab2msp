@@ -27,4 +27,8 @@ public class K {
     public String kk() {
         return "Yes";
     }
+
+    public int[] ii() {
+        return new int[]{4, 3, 2, 1};
+    }
 }

@@ -27,4 +27,8 @@ public class I {
     public int hh() {
         return new java.util.Random().nextInt();
     }
+
+    public long ac() {
+        return 111;
+    }
 }
