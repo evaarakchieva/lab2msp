@@ -15,4 +15,8 @@ public class E extends I {
     public String kk() {
         return "No";
     }
+
+    public double ee() {
+        return java.lang.Math.PI;
+    }
 }
