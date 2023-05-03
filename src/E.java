@@ -23,4 +23,8 @@ public class E extends I {
     public float ff() {
         return 3.14;
     }
+
+    public int af() {
+        return -1;
+    }
 }
