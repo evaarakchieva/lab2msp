@@ -11,8 +11,4 @@ public class G {
     public double ee() {
         return 100.500;
     }
-
-    public int[] ii() {
-        return new int[]{0, 1, 2, 3, 4};
-    }
 }
