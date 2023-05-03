@@ -11,4 +11,8 @@ public class K {
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public long ac() {
+        return 222;
+    }
 }
